@@ -2,7 +2,7 @@
 
 ## Explication
 
-- Récuperer l'url de la vidéo youtube voulu :
+- Récuperer l'url de la vidéo youtube voulu :<br/>
 www.youtube.com/watch?v=<id>706tS6pW0BA</id>.
 La partie entourée des balises <id> est l'id la vidéo.
 
